@@ -1,0 +1,12 @@
+name: context7
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: New MCP server
+    type: stdio
+    command: npx
+    args:
+      - -y
+      - '@upstash/context7-mcp'
+      - --api-key
+      - ctx7sk-260e5954-705b-45c9-8d42-5c813acfbcda
