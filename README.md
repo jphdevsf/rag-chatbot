@@ -1,4 +1,5 @@
 # RAG Chatbot
+<img src="assets/rag-chatbot-ascii-art.png" width="320" height="auto" />
 
 This is a Retrieval-Augmented Generation (RAG) chatbot built with Python, using Ollama for local LLM inference, ChromaDB for vector storage, and Gradio for the web interface. It processes documents (e.g., PDFs) to answer questions based on their content.
 
